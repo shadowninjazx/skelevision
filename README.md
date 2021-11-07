@@ -51,6 +51,8 @@ Coming soon.
 
 Coming soon.
 
+```python3.8 -m venv /mnt/d/skelevision```
+
 ### Installation
 
 Coming soon.
